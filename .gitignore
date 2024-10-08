@@ -1,0 +1,17 @@
+# Rust
+/target
+**/*.rs.bk
+
+# Node
+node_modules/
+npm-debug.log
+
+# Anchor
+.anchor
+
+# Environment
+.env
+
+# IDEs
+.vscode/
+.idea/
